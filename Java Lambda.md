@@ -354,6 +354,8 @@
 
     - @FunctionalInterface : 함수적 Interface 
       - 람다의 Target Type이 될 수 있는 Interface
+      - 해당 Interface에 두개 이상의 Method를 선언하면, 유효하지 않다는 오류 발생
+        => 컴파일러 수준에서 오류 확인 가능!
 
   - 예 
 
