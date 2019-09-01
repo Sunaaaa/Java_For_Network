@@ -418,7 +418,7 @@
 
        - 실행화면
 
-         [![1566213449479]()](https://github.com/Sunaaaa/AndroidStudio/blob/master/Java Lambda.md)
+         [![1566213449479]()](https://user-images.githubusercontent.com/39547788/63262488-10551980-c2c1-11e9-8552-929f740ec3e4.png)
 
        - 만약 익명 객체를 지칭하고 싶은 경우, new Keyword를 통하여 해당 Interface를 직접 구현한다. (람다식으로 구현하는 것이 아님)
 
@@ -481,7 +481,7 @@
 
        - 실행 화면
 
-         [![1566212609527]()](https://github.com/Sunaaaa/AndroidStudio/blob/master/Java Lambda.md)
+         [![1566212609527]()](https://user-images.githubusercontent.com/39547788/63262484-0cc19280-c2c1-11e9-9c97-a634a0c878ea.png)
 
    <br>
 
